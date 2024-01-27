@@ -1,6 +1,11 @@
 # jawaban-ujian
 jawaban nomer 1
-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bml2ZXJzaXRhcyI6IkRqdWFuZGEiLCJwcm9kaSI6IklsbXUgS29tcHV0ZXIiLCJpYXQiOjE2NzQyNzAwMDB9.Yr3mvqeWO9wVYkKaBAv6dzQHDCvnfN3wqazpe_j97-g
+
+{
+  "universitas": "Djuanda",
+  "prodi": "Ilmu Komputer",
+  "iat": 1674270000
+}
 
 jawaban nomer 2
 <table border="1">
@@ -42,9 +47,11 @@ jawaban nomer 2
 </table>
 
 jawaban nomer 3
+
 Middleware adalah perangkat lunak yang berada di antara sistem operasi dan aplikasi yang membantu mereka berkomunikasi atau berinteraksi satu sama lain. keuntungan menerapkan middleware adalah Middleware memungkinkan integrasi antara sistem-sistem yang berbeda, baik itu perangkat keras maupun perangkat lunak dan juga dapat meningkatkan interoperabilitas antara aplikasi yang dikembangkan menggunakan teknologi atau platform yang berbeda.
 
 jawaban nomer 4
+
 unit testing adalah praktek pengujian perangkat lunak untuk memastikan unit program berfungsi sebagaimana semestinya
 metode yang ada pada unit testing adalah tes otomatis, white box testing, integration testing, regression testing dan lain lain
 
@@ -54,7 +61,9 @@ jawaban nomer 5
 - kubernetes adalah sistem orkestrasi kontainer yang mengelola, mendeploy, dan mengelola aplikasi yang dijalankan dalam kontainer.
 
 jawaban nomer 6
+
 CI/CD adalah singkatan dari Continuous Integration (CI) dan Continuous Deployment (CD). ini adalah praktik mengembangkan perangkat lunak untuk meningkatkan efisiensi dengan mendeploy perubahan secara otomatis juga melakukan itegrasi kode secara terus menerus
 
 jawaban nomer 7 
+
 https://irgi-mutahari.github.io/irgiUAS.github.io/
